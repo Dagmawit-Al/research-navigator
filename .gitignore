@@ -1,0 +1,19 @@
+# Data files (too large for GitHub)
+data/raw_papers.json
+data/raw_papers_with_topics.json
+data/cache_*.json
+data/papers.parquet
+
+# Model files (too large for GitHub)
+models/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# API key
+.env
+.DS_Store
+.DS_Store
+.DS_Store

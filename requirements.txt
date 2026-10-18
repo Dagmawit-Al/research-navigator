@@ -1,0 +1,10 @@
+pyspark
+sentence-transformers
+faiss-cpu
+requests
+streamlit
+networkx
+pandas
+numpy
+scikit-learn
+matplotlib
